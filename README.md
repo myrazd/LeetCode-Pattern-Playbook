@@ -1,4 +1,4 @@
-# 🧠 LeetCode Pattern Playbook
+# 🧠 LeetCode Playbook
 
 A structured approach to solving LeetCode problems by focusing on patterns, reasoning, and iterative improvement—not memorization.
 
